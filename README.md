@@ -11,6 +11,6 @@
 ## How to use
 * Requirement
 ```
-	diasm : core to disassembly execute file
+	distorm3 : core to disassembly execute file
 	pydot : draw control flow graph
 ```
